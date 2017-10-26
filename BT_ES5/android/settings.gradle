@@ -1,0 +1,3 @@
+rootProject.name = 'BT_ES5'
+
+include ':app'
